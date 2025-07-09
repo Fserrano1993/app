@@ -1,4 +1,8 @@
 streamlit
-docx
-pandas
 python-docx
+pandas
+openpyxl
+pdfplumber
+pdf2image
+pillow
+
